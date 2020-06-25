@@ -1,6 +1,6 @@
-### Here is the code repo for our IEEE CNS paper: Hybrid Analysis of Android Apps for Security Vetting using Deep Learning
+### Here is the code repo for our IEEE CNS (2020) paper: Hybrid Analysis of Android Apps for Security Vetting using Deep Learning
 
-See the paper for more details on the experiments.
+Before reading the code, you may see the above paper for high-level details on the three experiments that are presented here.
 
 The raw apps and artifacts datasets are not included here due to the size constraint. They are available upon request.
 
